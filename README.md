@@ -4,5 +4,5 @@ Here are my solutions to the problems of [Advent of Code 2024](https://adventofc
 
 Every solution can be run with the following command
 ```
-$ python3 day_XX_partY.py path/to/puzzle/input
+python3 day_XX_partY.py path/to/puzzle/input
 ```
